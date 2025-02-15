@@ -2,6 +2,7 @@
 
 ## Prerequisite
 Laravel Herd for best dev experience
+https://herd.laravel.com/windows
 
 ## Overview
 
@@ -33,7 +34,7 @@ if you are using herd (make sure to link this app using herd link)
 ```bash
 herd open
 ```
-
+or
 ```bash
 php artisan serve
 ```
