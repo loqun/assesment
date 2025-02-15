@@ -32,7 +32,7 @@ npm install
 Run the project locally with:
 if you are using herd (make sure to link this app using herd link) 
 ```bash
-herd open .
+herd open 
 ```
 
 
