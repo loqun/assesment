@@ -12,7 +12,18 @@ class HomeController extends Controller
     public function home(Request $request){
 
 
-        return Inertia::render('Home');
+        return Inertia::render(component: 'Home');
+
+
+    }
+
+
+    public function form(Request $request){
+
+
+        return Inertia::render(component: 'Form');
+
+
 
 
     }
