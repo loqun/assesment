@@ -1,5 +1,8 @@
 # Assesment Project
 
+## Prerequisite
+Laravel Herd for best dev experience
+
 ## Overview
 
 This is an assessment project for **HendShake**. It includes various tasks, exercises, and tools to demonstrate core functionalities. It is a Todo List app
@@ -26,16 +29,18 @@ npm install
 ```
 
 Run the project locally with:
+if you are using herd (make sure to link this app using herd link) 
+```bash
+herd open
+```
 
 ```bash
 php artisan serve
-npm run dev
 ```
 
 If you want to build just run 
 ```bash
 npm run build
-php artisan serve
 ```
 
 
