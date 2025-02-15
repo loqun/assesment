@@ -4,7 +4,8 @@
 Laravel Herd for best dev experience
 https://herd.laravel.com/windows
 
-setup the database as in this i setup mariadb hence need mariadb or your own and need to configure db
+Setup the database as in this i setup mariadb hence need mariadb or your own and need to configure db
+copy env.example to .env
 
 ## Overview
 
