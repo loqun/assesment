@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an assessment project for **HandShake**. It includes various tasks, exercises, and tools to demonstrate core functionalities. It is a Todo List app
+This is an assessment project for **HendShake**. It includes various tasks, exercises, and tools to demonstrate core functionalities. It is a Todo List app
 
 ## Features
 
