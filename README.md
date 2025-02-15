@@ -31,6 +31,12 @@ composer install
 npm install
 ```
 
+Generate appkey and migration
+```bash
+php artisan generate:key
+php artisan migrate
+```
+
 Run the project locally with:
 if you are using herd (make sure to link this app using herd link) 
 ```bash
