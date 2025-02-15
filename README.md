@@ -31,3 +31,11 @@ Run the project locally with:
 php artisan serve
 npm run dev
 ```
+
+If you want to build just run 
+```bash
+npm run build
+php artisan serve
+```
+
+
