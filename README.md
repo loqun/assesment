@@ -4,6 +4,8 @@
 Laravel Herd for best dev experience
 https://herd.laravel.com/windows
 
+setup the database as in this i setup mariadb hence need mariadb or your own and need to configure db
+
 ## Overview
 
 This is an assessment project for **HendShake**. It includes various tasks, exercises, and tools to demonstrate core functionalities. It is a Todo List app
