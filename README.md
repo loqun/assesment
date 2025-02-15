@@ -2,13 +2,13 @@
 
 ## Overview
 
-This is an assessment project for **HandShake**. It includes various tasks, exercises, and tools to demonstrate core functionalities. 
+This is an assessment project for **HandShake**. It includes various tasks, exercises, and tools to demonstrate core functionalities. It is a Todo List app
 
 ## Features
 
-- **Feature 1:** Brief description.
-- **Feature 2:** Brief description.
-- **Feature 3:** Brief description.
+- **Feature 1:** CRUD on the todo list.
+- **Feature 2:** Show the total list.
+- **Feature 3:** Persistence data using localStorage.
 
 ## Installation
 
